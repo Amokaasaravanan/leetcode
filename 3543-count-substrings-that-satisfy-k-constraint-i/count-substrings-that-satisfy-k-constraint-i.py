@@ -14,5 +14,4 @@ class Solution:
 
                 if zeros <= k or ones <= k:
                     count += 1
-
         return count
