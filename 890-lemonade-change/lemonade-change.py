@@ -15,7 +15,7 @@ class Solution:
                 five -= 1
                 ten += 1
 
-            else:   # bill == 20
+            else:   
 
                 if ten >= 1 and five >= 1:
                     ten -= 1
